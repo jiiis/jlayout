@@ -1,0 +1,19 @@
+{
+    "name": "jiiis-jlayout",
+    "version": "1.0.0",
+    "description": "A fork from https://github.com/bramstein/jlayout",
+    "main": "lib/jquery.jlayout.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jiiis/jlayout.git"
+    },
+    "keywords": [
+        "jlayout"
+    ],
+    "author": "jiiis <yngwie.chang@gmail.com>",
+    "license": "BSD",
+    "bugs": {
+        "url": "https://github.com/jiiis/jlayout/issues"
+    },
+    "homepage": "https://github.com/jiiis/jlayout#readme"
+}
